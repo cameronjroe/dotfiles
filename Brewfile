@@ -31,6 +31,10 @@ install ack
 install git
 install node
 install tree
+install redis
+install mongodb
+install rabbitmq
+install heroku-toolbelt
 # install p7zip
 
 tap homebrew/versions
